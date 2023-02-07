@@ -10,9 +10,9 @@
 
 <body>
     <h1>Home Laravel</h1>
-    <a href="pag2">link pagina 2</a>
+    <a href="http://127.0.0.1:8000/pag2">link pagina 2</a>
     <br>
-    <a href="pag3">link pagina 3</a>
+    <a href="/pag3">link pagina 3</a>
 
 </body>
 
