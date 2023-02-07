@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/pag2', function () {
     return view('pag2');
 });
+Route::get('/pag3', function () {
+    return view('pag3');
+});

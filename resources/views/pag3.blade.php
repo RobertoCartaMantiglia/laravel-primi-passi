@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,11 +7,11 @@
 
 <body>
     <h1>
-        questa è la pagina 2 di Laravel
+        questa è la pagina 3 di Laravel
     </h1>
     <a href="/">Ritorna alla home page</a>
     <br>
-    <a href="/pag3">vai a pagina 3</a>
+    <a href="pag2">Ritorna alla pagina 2</a>
 
 </body>
 

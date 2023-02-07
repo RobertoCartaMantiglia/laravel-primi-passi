@@ -11,6 +11,9 @@
 <body>
     <h1>Home Laravel</h1>
     <a href="pag2">link pagina 2</a>
+    <br>
+    <a href="pag3">link pagina 3</a>
+
 </body>
 
 </html>
